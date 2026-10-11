@@ -68,12 +68,34 @@ with tab2:
     speed = c2.select_slider("Replay speed", [1, 2, 5, 10], 5)
     ph = st.empty()
 
+   
     def draw(i):
         w = W.iloc[: i + 1]
-        fig = px.area(w, title=f"Weights up to {dates[i].date()}"); fig.update_layout(height=380, yaxis_tickformat=".0%", legend=dict(orientation="h"))
-        cur = W.iloc[i].sort_values(); bar = px.bar(cur, orientation="h", title="Current weights"); bar.update_layout(height=380, showlegend=False)
+        fig = px.area(w, title=f"Weights up to {dates[i].date()}")
+        fig.update_layout(
+            height=380,
+            yaxis_tickformat=".0%",
+            legend=dict(orientation="h")
+        )
+
+        cur = W.iloc[i].sort_values()
+        bar = px.bar(cur, orientation="h", title="Current weights")
+        bar.update_layout(height=380, showlegend=False)
+
         with ph.container():
-            a, b = st.columns([3, 2]); a.plotly_chart(fig, use_container_width=True); b.plotly_chart(bar, use_container_width=True)
+            a, b = st.columns([3, 2])
+
+            a.plotly_chart(
+                fig,
+                use_container_width=True,
+                key=f"signalforge_weights_{i}"
+            )
+
+            b.plotly_chart(
+                bar,
+                use_container_width=True,
+                key=f"signalforge_current_weights_{i}"
+            )
 
     if st.button("Play replay from start"):
         for i in range(5, len(dates), speed):
@@ -129,9 +151,44 @@ with tab3:
     m1, m2, m3, m4 = st.columns(4)
     m1.metric("Before (USD m)", f"{tot.value_before/1e6:,.1f}"); m2.metric("After (USD m)", f"{tot.value_after/1e6:,.1f}")
     m3.metric("Contagion P&L (USD m)", f"{tot.pnl/1e6:,.1f}", f"{tot.pnl/abs(tot.value_before):.1%}"); m4.metric("Naive flat-shock P&L (USD m)", f"{naive/1e6:,.1f}")
+    
     a, b = st.columns(2)
-    bt = by_type.reset_index().melt("asset_type", ["value_before", "value_after"]); a.plotly_chart(px.bar(bt, x="asset_type", y="value", color="variable", barmode="group", title="Value before vs after"), use_container_width=True)
-    b.plotly_chart(px.bar(by_sec.reset_index(), x="pnl", y="sector", orientation="h", title="P&L by sector", color_discrete_sequence=["firebrick"]), use_container_width=True)
+
+    bt = by_type.reset_index().melt(
+        "asset_type",
+        ["value_before", "value_after"]
+    )
+
+    a.plotly_chart(
+        px.bar(
+            bt,
+            x="asset_type",
+            y="value",
+            color="variable",
+            barmode="group",
+            title="Value before vs after"
+        ),
+        use_container_width=True,
+        key="signalforge_value_before_after"
+    )
+
+    b.plotly_chart(
+        px.bar(
+            by_sec.reset_index(),
+            x="pnl",
+            y="sector",
+            orientation="h",
+            title="P&L by sector",
+            color_discrete_sequence=["firebrick"]
+        ),
+        use_container_width=True,
+        key="signalforge_pnl_by_sector"
+    )
+
     st.subheader("Contagion graph: event -> sector/country -> counterparty -> asset")
-    st.plotly_chart(network_fig(S.build_graph(pf, scen, res)), use_container_width=True)
+    st.plotly_chart(
+    network_fig(S.build_graph(pf, scen, res)),
+    use_container_width=True,
+    key="signalforge_contagion_graph"
+)
     st.subheader("Worst 10 assets"); st.dataframe(res.sort_values("pnl").head(10)[["asset_id", "asset_type", "counterparty", "sector", "country", "vuln", "value_before", "value_after", "pnl"]].round(2))
