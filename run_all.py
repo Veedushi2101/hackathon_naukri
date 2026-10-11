@@ -1,9 +1,3 @@
-"""One-command pipeline:  python run_all.py
-1. generate synthetic data (skipped if /data already populated; use --regen to force)
-2. NLP engine  -> data/signals.jsonl + impact_calibration.csv
-3. Module A    -> results/backtest.csv, weights.csv, docs/module_a.png
-4. Module B    -> results/stress_*.csv, docs/module_b.png, replay timelines
-"""
 import argparse, json
 import numpy as np, pandas as pd
 import matplotlib; matplotlib.use("Agg")
@@ -13,6 +7,13 @@ from src import data_gen
 from src.engine.engine import run, load_signals, daily_scores
 from src.modules.rebalancer import backtest_report
 from src.modules import stress as S
+
+"""One-command pipeline:  python run_all.py
+1. generate synthetic data (skipped if /data already populated; use --regen to force)
+2. NLP engine  -> data/signals.jsonl + impact_calibration.csv
+3. Module A    -> results/backtest.csv, weights.csv, docs/module_a.png
+4. Module B    -> results/stress_*.csv, docs/module_b.png, replay timelines
+"""
 
 RES = ROOT / "results"
 

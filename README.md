@@ -1,11 +1,5 @@
 # Ripple: A Single Text-Intelligence Engine Powering Fast and Slow Risk Decisions - S&P Global & Crisil Campus Hackathon
 
-**Candidate Name:** <Your Full Name>
-**College Email ID:** <your_id@college.ac.in>
-**College / Campus:** <Your College Name>
-**Demo Video Link:** <YouTube unlisted link>
-**Slide Deck Link (if hosted externally):** not required - the deck is at `docs/presentation.pdf`
-
 ## 1. Project Overview / Problem Statement & Approach
 
 Markets react to headlines and social chatter within minutes, while risk teams still read most of it by hand. Ripple closes that gap with one **AI/NLP risk engine** that reads text from two separate channels (news and social posts) and turns each item into a structured signal: a **sentiment score from -1 to 1**, an **event category**, and an **impact rating from 1 to 10**. Every signal also includes a confidence value, the sentence it was based on and the key terms behind the decision. Results are saved to `data/signals.jsonl` and exposed through a FastAPI service.
@@ -59,8 +53,8 @@ Key caveats:
 Runtime: Python 3.10+ (tested on 3.12), Linux.
 
 ```bash
-git clone <your-repo-url>
-cd <repo-folder>
+git clone https://github.com/Veedushi2101/hackathon_naukri
+cd hackathon_naukri
 pip install -r requirements.txt
 python run_all.py                      # engine + Module A backtest + Module B stress + replays (~20 s)
 python -m src.make_docs                # optional: rebuild docs/presentation.pdf and architecture.png
@@ -102,5 +96,3 @@ src/api.py            FastAPI               src/dashboard.py  Streamlit
 src/make_docs.py      deck + diagram        src/fetch_real_data.py  optional yfinance loader
 data/  results/  docs/  tests/
 ```
-
-*AI tools assisted in building this project; the author understands and can explain every design decision.*
