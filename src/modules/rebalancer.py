@@ -84,12 +84,12 @@ def placebo(sig, prices, scores, n=40, seed=0):
 def backtest_report(sig, prices, with_placebo=True):
     res = run_index(sig, prices)
     table = pd.DataFrame({
-        "Ripple sentiment-tilt": stats(res["returns"], res["turnover"]),
+        "SignalForge sentiment-tilt": stats(res["returns"], res["turnover"]),
         "Equal-weight (daily rebal)": stats(benchmark(prices, "equal_weight_daily")),
         "Buy & hold": stats(benchmark(prices, "buy_hold")),
     }).T
     info = {}
     if with_placebo:
         ps = placebo(sig, prices, daily_scores(sig, prices.index))
-        info["placebo_pctile"] = float((ps < table.loc["Ripple sentiment-tilt", "sharpe"]).mean())
+        info["placebo_pctile"] = float((ps < table.loc["SignalForge sentiment-tilt", "sharpe"]).mean())
     return res, table, info

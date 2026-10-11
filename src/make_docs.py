@@ -22,7 +22,7 @@ def arrow(ax, x1, y1, x2, y2):
 
 def architecture():
     fig, ax = plt.subplots(figsize=(14, 7.5)); ax.set_xlim(0, 14); ax.set_ylim(0, 7.5); ax.axis("off")
-    ax.text(7, 7.15, "Ripple - architecture & data flow", ha="center", fontsize=15, weight="bold")
+    ax.text(7, 7.15, "SignalForge - architecture & data flow", ha="center", fontsize=15, weight="bold")
     for i, t in enumerate(["News feed\n(GDELT / NewsAPI /\nKaggle headlines)", "Social feed\n(X / Kaggle tweets)", "Replay episodes\n(deterministic)"]):
         box(ax, 0.3, 5.3 - i * 1.7 + 0.0, 2.4, 1.2, t, "#fff4e5", "#f29900"); arrow(ax, 2.7, 5.9 - i * 1.7, 3.5, 4.3)
     box(ax, 3.5, 3.4, 2.3, 1.8, "Ingestors\nnormalised schema\n(id, ts, source, text)\n+ entity linking", "#e6f4ea", "#188038")
@@ -61,9 +61,9 @@ def deck():
     tl = pd.read_csv(RES / "replay_timeline.csv"); res = pd.read_csv(RES / "stress_by_type.csv", index_col=0)
     import src.modules.stress as S_; naive = S_.naive_flat_shock(S_.load_portfolio())
     tot_b, tot_a = res.value_before.sum(), res.value_after.sum(); sig = pd.read_json(DATA / "signals.jsonl", lines=True)
-    r = bt.loc["Ripple sentiment-tilt"]
+    r = bt.loc["SignalForge sentiment-tilt"]
     with PdfPages(DOCS / "presentation.pdf") as pdf:
-        fig = plt.figure(figsize=(13.33, 7.5)); fig.text(.5, .62, "Ripple", ha="center", fontsize=60, weight="bold", color="#1a237e")
+        fig = plt.figure(figsize=(13.33, 7.5)); fig.text(.5, .62, "SignalForge", ha="center", fontsize=60, weight="bold", color="#1a237e")
         fig.text(.5, .5, "A single calibrated, transparent NLP risk engine\npowering a fast index rebalancer and a deep stress tester", ha="center", fontsize=20)
         fig.text(.5, .3, f"{NAME}  |  {COLLEGE}\nS&P Global & Crisil Campus Hackathon 2026 - Phase III Case Study", ha="center", fontsize=15, color="#555")
         pdf.savefig(fig); plt.close(fig)

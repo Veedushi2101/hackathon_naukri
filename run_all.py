@@ -36,7 +36,7 @@ def main(regen=False, model="lexicon"):
     fig, ax = plt.subplots(1, 2, figsize=(13, 4.2))
     res["weights"].plot.area(ax=ax[0], legend=False, linewidth=0, colormap="tab20"); ax[0].set_title("Index weights over time"); ax[0].set_ylim(0, 1)
     ax[0].legend(ncol=2, fontsize=6, loc="upper left")
-    (1 + res["returns"]).cumprod().plot(ax=ax[1], label="Ripple tilt")
+    (1 + res["returns"]).cumprod().plot(ax=ax[1], label="SignalForge tilt")
     from src.modules.rebalancer import benchmark
     (1 + benchmark(px, "equal_weight_daily")).cumprod().plot(ax=ax[1], label="Equal weight")
     (1 + benchmark(px, "buy_hold")).cumprod().plot(ax=ax[1], label="Buy & hold"); ax[1].legend(); ax[1].set_title("Growth of 1 (net of costs) - SYNTHETIC prices")

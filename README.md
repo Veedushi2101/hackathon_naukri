@@ -1,8 +1,8 @@
-# Ripple: A Single Text-Intelligence Engine Powering Fast and Slow Risk Decisions - S&P Global & Crisil Campus Hackathon
+# SignalForge: A Single Text-Intelligence Engine Powering Fast and Slow Risk Decisions - S&P Global & Crisil Campus Hackathon
 
 ## 1. Project Overview / Problem Statement & Approach
 
-Markets react to headlines and social chatter within minutes, while risk teams still read most of it by hand. Ripple closes that gap with one **AI/NLP risk engine** that reads text from two separate channels (news and social posts) and turns each item into a structured signal: a **sentiment score from -1 to 1**, an **event category**, and an **impact rating from 1 to 10**. Every signal also includes a confidence value, the sentence it was based on and the key terms behind the decision. Results are saved to `data/signals.jsonl` and exposed through a FastAPI service.
+Markets react to headlines and social chatter within minutes, while risk teams still read most of it by hand. SignalForge closes that gap with one **AI/NLP risk engine** that reads text from two separate channels (news and social posts) and turns each item into a structured signal: a **sentiment score from -1 to 1**, an **event category**, and an **impact rating from 1 to 10**. Every signal also includes a confidence value, the sentence it was based on and the key terms behind the decision. Results are saved to `data/signals.jsonl` and exposed through a FastAPI service.
 
 To show the engine is reusable, two downstream applications are built on it. **Module A** adjusts the weights of a mock stock index as sentiment changes and is backtested. **Module B** stress-tests a synthetic wholesale-banking portfolio (loans, bonds and derivatives) whenever a severe event is detected.
 
@@ -74,7 +74,7 @@ Learned impact ratings (average absolute abnormal return over t+1 to t+3, conver
 
 | | Return | Sharpe | Max DD | Daily turnover |
 |---|---|---|---|---|
-| Ripple sentiment-tilt | 23.5% | 3.12 | -2.9% | 5.9% |
+| SignalForge sentiment-tilt | 23.5% | 3.12 | -2.9% | 5.9% |
 | Equal-weight | -4.0% | -0.54 | -6.7% | - |
 | Buy & hold | -3.2% | -0.41 | -6.2% | - |
 

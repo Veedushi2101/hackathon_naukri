@@ -10,7 +10,7 @@ from src.engine.nlp import Analyzer, link_entities
 from src.engine.impact import signal_impact
 from src.modules import stress as S
 
-app = FastAPI(title="Ripple NLP Risk Engine", version="1.0")
+app = FastAPI(title="SignalForge NLP Risk Engine", version="1.0")
 _an = Analyzer("lexicon")
 _cal = pd.read_csv(DATA / "impact_calibration.csv", index_col=0).impact_base.to_dict()
 

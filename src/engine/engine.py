@@ -1,4 +1,4 @@
-"""Ripple NLP Risk Engine: ingest -> link -> sentiment/event -> calibrated impact -> signals.jsonl
+"""SignalForge NLP Risk Engine: ingest -> link -> sentiment/event -> calibrated impact -> signals.jsonl
 
 Usage:  python -m src.engine.engine [--model lexicon|transformer]
 Output: data/signals.jsonl   (one JSON object per signal)

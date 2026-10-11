@@ -12,8 +12,8 @@ from src.engine.impact import signal_impact
 from src.modules import stress as S
 
 RES = ROOT / "results"
-st.set_page_config(page_title="Ripple - NLP Risk Engine", layout="wide")
-st.title("Ripple: one NLP risk engine, two time horizons")
+st.set_page_config(page_title="SignalForge - NLP Risk Engine", layout="wide")
+st.title("SignalForge: one NLP risk engine, two time horizons")
 st.caption("News + social text -> sentiment / event / calibrated impact -> (A) tactical index rebalancer, (B) strategic stress test. Prices & text are SYNTHETIC unless you loaded real data.")
 
 if not (RES / "backtest.csv").exists():
