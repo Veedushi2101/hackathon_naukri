@@ -1,0 +1,4 @@
+,total_return,ann_vol,sharpe,max_drawdown,avg_daily_turnover
+Ripple sentiment-tilt,0.2354,0.146,3.115,-0.0286,0.059
+Equal-weight (daily rebal),-0.0398,0.1403,-0.5381,-0.0671,
+Buy & hold,-0.0317,0.1402,-0.4124,-0.0616,

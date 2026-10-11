@@ -1,0 +1,9 @@
+event_type,n_events,mean_abs_abnormal_ret_3d,data_score,prior,data_weight,impact_base,half_life_days
+Credit Event,27.0,0.05449,8.54,8.0,1.0,8.54,8.0
+Geopolitical,18.0,0.04233,7.81,7.0,1.0,7.81,10.0
+Macroeconomic,23.0,0.02488,6.07,6.0,1.0,6.07,6.0
+Merger/Acquisition,29.0,0.05096,8.35,6.0,1.0,8.35,5.0
+Product Launch,24.0,0.01946,5.3,3.0,1.0,5.3,3.0
+Earnings,19.0,0.03542,7.24,5.0,1.0,7.24,3.0
+Regulatory/Legal,22.0,0.02557,6.16,5.0,1.0,6.16,7.0
+Other,0.0,,,2.0,0.0,2.0,2.0

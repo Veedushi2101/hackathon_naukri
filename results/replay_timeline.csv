@@ -1,0 +1,3 @@
+episode,timestamp,trigger,evidence,pnl,pnl_pct
+Banking Run (Mar-2023 style),2023-03-09 06:00:00,Credit Event (impact 8),"Depositors withdraw billions as bank run fears spread, liquidity crunch at lender",-143460487.0084416,-0.05530604665071234
+Geopolitical Shock (Feb-2022 style),2022-02-21 05:00:00,Geopolitical (impact 8),"Military buildup raises war fears, sanctions threatened against energy exporters",-133779498.56844075,-0.05157388869242946

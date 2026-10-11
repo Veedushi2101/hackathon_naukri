@@ -1,0 +1,689 @@
+id,timestamp,source,text
+T0,2026-04-06 14:35:00,twitter,"loading up on $JNJ, great news"
+T1,2026-04-06 16:47:00,twitter,$JNJ to the moon 🚀 earnings
+T2,2026-04-06 19:19:00,twitter,$JNJ to the moon 🚀 earnings
+T3,2026-04-06 20:02:00,twitter,"loading up on $JNJ, great news"
+T4,2026-04-07 10:14:00,twitter,omg Apple is done 😱 
+T5,2026-04-07 12:39:00,twitter,$AAPL crashing?? heard rumours it's worse than reported
+T6,2026-04-07 13:33:00,twitter,omg Apple is done 😱 
+T7,2026-04-07 13:41:00,twitter,"selling all my $AAPL right now, this looks bad"
+T8,2026-04-07 13:50:00,twitter,$AAPL crashing?? heard rumours it's worse than reported
+T9,2026-04-07 15:21:00,twitter,"Chevron looking strong, bullish 📈"
+T10,2026-04-07 16:32:00,twitter,"selling all my $AAPL right now, this looks bad"
+T11,2026-04-07 16:46:00,twitter,$AAPL crashing?? heard rumours it's worse than reported
+T12,2026-04-07 18:00:00,twitter,"loading up on $CVX, great news"
+T13,2026-04-07 18:15:00,twitter,$CVX to the moon 🚀 reduction
+T14,2026-04-08 10:14:00,twitter,$GOOGL crashing?? heard rumours it's worse than reported
+T15,2026-04-08 13:25:00,twitter,omg Alphabet is done 😱 guidance
+T16,2026-04-08 13:32:00,twitter,omg Alphabet is done 😱 guidance
+T17,2026-04-08 15:41:00,twitter,omg Apple is done 😱 worried
+T18,2026-04-08 17:24:00,twitter,$AAPL crashing?? heard rumours it's worse than reported
+T19,2026-04-09 08:53:00,twitter,"selling all my $WMT right now, this looks bad"
+T20,2026-04-09 09:23:00,twitter,Walmart fraud?? thread 🧵 found
+T21,2026-04-09 09:53:00,twitter,$CVX to the moon 🚀 earnings
+T22,2026-04-09 10:05:00,twitter,"Chevron looking strong, bullish 📈"
+T23,2026-04-09 10:15:00,twitter,"loading up on $CVX, great news"
+T24,2026-04-09 10:40:00,twitter,$CVX to the moon 🚀 earnings
+T25,2026-04-09 11:25:00,twitter,Walmart fraud?? thread 🧵 found
+T26,2026-04-09 11:54:00,twitter,"selling all my $WMT right now, this looks bad"
+T27,2026-04-09 12:39:00,twitter,Walmart fraud?? thread 🧵 found
+T28,2026-04-09 14:33:00,twitter,"Chevron looking strong, bullish 📈"
+T29,2026-04-13 10:56:00,twitter,omg JPMorgan is done 😱 bid
+T30,2026-04-13 14:39:00,twitter,Goldman Sachs fraud?? thread 🧵 costs
+T31,2026-04-13 15:11:00,twitter,Goldman Sachs fraud?? thread 🧵 costs
+T32,2026-04-13 15:19:00,twitter,"selling all my $JPM right now, this looks bad"
+T33,2026-04-13 16:28:00,twitter,$AMZN crashing?? heard rumours it's worse than reported
+T34,2026-04-13 16:53:00,twitter,Goldman Sachs fraud?? thread 🧵 costs
+T35,2026-04-13 17:08:00,twitter,Goldman Sachs fraud?? thread 🧵 costs
+T36,2026-04-13 17:12:00,twitter,$GS crashing?? heard rumours it's worse than reported
+T37,2026-04-13 18:22:00,twitter,"selling all my $AMZN right now, this looks bad"
+T38,2026-04-14 11:12:00,twitter,"selling all my $GS right now, this looks bad"
+T39,2026-04-14 12:33:00,twitter,$GS crashing?? heard rumours it's worse than reported
+T40,2026-04-14 12:52:00,twitter,Goldman Sachs fraud?? thread 🧵 worried
+T41,2026-04-14 14:08:00,twitter,Goldman Sachs fraud?? thread 🧵 worried
+T42,2026-04-14 14:40:00,twitter,"selling all my $BAC right now, this looks bad"
+T43,2026-04-14 16:45:00,twitter,$BAC crashing?? heard rumours it's worse than reported
+T44,2026-04-14 17:00:00,twitter,Bank of America fraud?? thread 🧵 worried
+T45,2026-04-14 20:12:00,twitter,Bank of America fraud?? thread 🧵 worried
+T46,2026-04-14 20:38:00,twitter,Bank of America fraud?? thread 🧵 worried
+T47,2026-04-15 09:48:00,twitter,$BA crashing?? heard rumours it's worse than reported
+T48,2026-04-15 11:03:00,twitter,$BA crashing?? heard rumours it's worse than reported
+T49,2026-04-15 11:16:00,twitter,Boeing fraud?? thread 🧵 
+T50,2026-04-15 17:47:00,twitter,Boeing fraud?? thread 🧵 
+T51,2026-04-16 11:31:00,twitter,omg Goldman Sachs is done 😱 spike
+T52,2026-04-16 11:33:00,twitter,Goldman Sachs fraud?? thread 🧵 spike
+T53,2026-04-16 11:47:00,twitter,omg Goldman Sachs is done 😱 spike
+T54,2026-04-16 12:58:00,twitter,"selling all my $GS right now, this looks bad"
+T55,2026-04-16 14:09:00,twitter,omg Goldman Sachs is done 😱 spike
+T56,2026-04-20 09:10:00,twitter,omg Pfizer is done 😱 found
+T57,2026-04-20 10:51:00,twitter,omg Pfizer is done 😱 found
+T58,2026-04-20 13:50:00,twitter,"selling all my $PFE right now, this looks bad"
+T59,2026-04-21 14:34:00,twitter,Boeing fraud?? thread 🧵 worried
+T60,2026-04-21 15:22:00,twitter,"Exxon Mobil looking strong, bullish 📈"
+T61,2026-04-21 15:32:00,twitter,$BA crashing?? heard rumours it's worse than reported
+T62,2026-04-21 15:40:00,twitter,"selling all my $BA right now, this looks bad"
+T63,2026-04-21 16:13:00,twitter,Boeing fraud?? thread 🧵 worried
+T64,2026-04-21 16:22:00,twitter,"loading up on $XOM, great news"
+T65,2026-04-21 16:52:00,twitter,"loading up on $XOM, great news"
+T66,2026-04-21 17:33:00,twitter,"Exxon Mobil looking strong, bullish 📈"
+T67,2026-04-21 18:21:00,twitter,omg Boeing is done 😱 worried
+T68,2026-04-22 13:38:00,twitter,"loading up on $BAC, great news"
+T69,2026-04-22 13:59:00,twitter,omg Chevron is done 😱 {co}
+T70,2026-04-22 14:43:00,twitter,"Bank of America looking strong, bullish 📈"
+T71,2026-04-22 15:02:00,twitter,Chevron fraud?? thread 🧵 {co}
+T72,2026-04-22 15:46:00,twitter,$CVX crashing?? heard rumours it's worse than reported
+T73,2026-04-22 16:30:00,twitter,$BAC to the moon 🚀 reduction
+T74,2026-04-22 17:23:00,twitter,"loading up on $KO, great news"
+T75,2026-04-22 17:41:00,twitter,"loading up on $BAC, great news"
+T76,2026-04-22 17:58:00,twitter,"loading up on $BAC, great news"
+T77,2026-04-22 19:39:00,twitter,$CVX crashing?? heard rumours it's worse than reported
+T78,2026-04-22 19:55:00,twitter,"Coca-Cola looking strong, bullish 📈"
+T79,2026-04-22 20:25:00,twitter,"Coca-Cola looking strong, bullish 📈"
+T80,2026-04-23 08:25:00,twitter,Pfizer fraud?? thread 🧵 penalty
+T81,2026-04-23 09:05:00,twitter,$WMT to the moon 🚀 reduction
+T82,2026-04-23 10:08:00,twitter,omg Pfizer is done 😱 penalty
+T83,2026-04-23 11:28:00,twitter,Pfizer fraud?? thread 🧵 penalty
+T84,2026-04-23 11:40:00,twitter,$WMT to the moon 🚀 reduction
+T85,2026-04-23 11:49:00,twitter,$WMT to the moon 🚀 reduction
+T86,2026-04-23 13:55:00,twitter,"loading up on $KO, great news"
+T87,2026-04-23 16:13:00,twitter,"loading up on $KO, great news"
+T88,2026-04-23 16:37:00,twitter,"loading up on $KO, great news"
+T89,2026-04-24 10:10:00,twitter,omg Chevron is done 😱 found
+T90,2026-04-24 12:08:00,twitter,Microsoft fraud?? thread 🧵 conflict
+T91,2026-04-24 12:23:00,twitter,"selling all my $MSFT right now, this looks bad"
+T92,2026-04-24 12:44:00,twitter,"selling all my $CVX right now, this looks bad"
+T93,2026-04-24 12:51:00,twitter,Chevron fraud?? thread 🧵 found
+T94,2026-04-24 12:56:00,twitter,Chevron fraud?? thread 🧵 found
+T95,2026-04-24 12:59:00,twitter,omg Microsoft is done 😱 conflict
+T96,2026-04-24 13:45:00,twitter,$JPM to the moon 🚀 agreement
+T97,2026-04-24 14:55:00,twitter,$WMT crashing?? heard rumours it's worse than reported
+T98,2026-04-24 15:04:00,twitter,"JPMorgan looking strong, bullish 📈"
+T99,2026-04-24 17:10:00,twitter,"JPMorgan looking strong, bullish 📈"
+T100,2026-04-24 17:42:00,twitter,$JPM to the moon 🚀 agreement
+T101,2026-04-24 18:07:00,twitter,"loading up on $JPM, great news"
+T102,2026-04-24 18:07:00,twitter,omg Microsoft is done 😱 conflict
+T103,2026-04-24 19:52:00,twitter,"selling all my $WMT right now, this looks bad"
+T104,2026-04-24 19:59:00,twitter,omg Walmart is done 😱 penalty
+T105,2026-04-27 14:18:00,twitter,$AAPL crashing?? heard rumours it's worse than reported
+T106,2026-04-27 16:32:00,twitter,"selling all my $AAPL right now, this looks bad"
+T107,2026-04-27 16:35:00,twitter,$AAPL crashing?? heard rumours it's worse than reported
+T108,2026-04-27 17:09:00,twitter,$AAPL crashing?? heard rumours it's worse than reported
+T109,2026-04-27 18:01:00,twitter,$AAPL crashing?? heard rumours it's worse than reported
+T110,2026-04-30 16:56:00,twitter,omg Coca-Cola is done 😱 worried
+T111,2026-04-30 19:20:00,twitter,omg Coca-Cola is done 😱 worried
+T112,2026-05-06 10:20:00,twitter,$XOM to the moon 🚀 reduction
+T113,2026-05-06 12:59:00,twitter,"Exxon Mobil looking strong, bullish 📈"
+T114,2026-05-07 10:46:00,twitter,"Exxon Mobil looking strong, bullish 📈"
+T115,2026-05-07 11:47:00,twitter,"Exxon Mobil looking strong, bullish 📈"
+T116,2026-05-07 11:58:00,twitter,"loading up on $XOM, great news"
+T117,2026-05-07 12:42:00,twitter,"selling all my $PFE right now, this looks bad"
+T118,2026-05-07 17:12:00,twitter,omg Pfizer is done 😱 margins
+T119,2026-05-07 17:32:00,twitter,"selling all my $PFE right now, this looks bad"
+T120,2026-05-07 17:36:00,twitter,Pfizer fraud?? thread 🧵 margins
+T121,2026-05-07 17:36:00,twitter,Pfizer fraud?? thread 🧵 margins
+T122,2026-05-12 12:09:00,twitter,"loading up on $PFE, great news"
+T123,2026-05-12 13:33:00,twitter,"Pfizer looking strong, bullish 📈"
+T124,2026-05-12 15:09:00,twitter,$PFE to the moon 🚀 growth
+T125,2026-05-12 15:28:00,twitter,$PFE to the moon 🚀 growth
+T126,2026-05-13 14:06:00,twitter,"Bank of America looking strong, bullish 📈"
+T127,2026-05-13 17:37:00,twitter,"loading up on $JNJ, great news"
+T128,2026-05-13 18:30:00,twitter,"loading up on $JNJ, great news"
+T129,2026-05-13 20:15:00,twitter,$BAC to the moon 🚀 {co}
+T130,2026-05-14 09:25:00,twitter,"loading up on $WMT, great news"
+T131,2026-05-14 11:18:00,twitter,$AAPL to the moon 🚀 dismissed
+T132,2026-05-14 11:49:00,twitter,"selling all my $AMZN right now, this looks bad"
+T133,2026-05-14 12:07:00,twitter,"Apple looking strong, bullish 📈"
+T134,2026-05-14 12:10:00,twitter,"loading up on $WMT, great news"
+T135,2026-05-14 12:17:00,twitter,$BAC crashing?? heard rumours it's worse than reported
+T136,2026-05-14 12:26:00,twitter,$AAPL to the moon 🚀 dismissed
+T137,2026-05-14 13:11:00,twitter,omg Bank of America is done 😱 bid
+T138,2026-05-14 13:34:00,twitter,"selling all my $BAC right now, this looks bad"
+T139,2026-05-14 14:05:00,twitter,"selling all my $AMZN right now, this looks bad"
+T140,2026-05-14 14:38:00,twitter,"selling all my $BAC right now, this looks bad"
+T141,2026-05-14 14:59:00,twitter,$WMT to the moon 🚀 demand
+T142,2026-05-14 15:06:00,twitter,$AAPL to the moon 🚀 dismissed
+T143,2026-05-14 15:32:00,twitter,$WMT to the moon 🚀 demand
+T144,2026-05-14 16:09:00,twitter,omg Bank of America is done 😱 bid
+T145,2026-05-14 17:30:00,twitter,"Apple looking strong, bullish 📈"
+T146,2026-05-18 14:03:00,twitter,$JNJ crashing?? heard rumours it's worse than reported
+T147,2026-05-18 15:18:00,twitter,Johnson & Johnson fraud?? thread 🧵 found
+T148,2026-05-18 16:06:00,twitter,$JNJ crashing?? heard rumours it's worse than reported
+T149,2026-05-22 08:29:00,twitter,"loading up on $XOM, great news"
+T150,2026-05-22 08:45:00,twitter,"loading up on $XOM, great news"
+T151,2026-05-22 08:53:00,twitter,"loading up on $XOM, great news"
+T152,2026-05-22 14:11:00,twitter,"loading up on $XOM, great news"
+T153,2026-05-22 15:49:00,twitter,"Alphabet looking strong, bullish 📈"
+T154,2026-05-22 18:47:00,twitter,$GOOGL to the moon 🚀 earnings
+T155,2026-05-25 12:01:00,twitter,"Goldman Sachs looking strong, bullish 📈"
+T156,2026-05-25 14:37:00,twitter,"loading up on $GS, great news"
+T157,2026-05-25 16:04:00,twitter,$GS to the moon 🚀 granted
+T158,2026-05-26 09:55:00,twitter,Alphabet fraud?? thread 🧵 
+T159,2026-05-26 14:09:00,twitter,"Amazon looking strong, bullish 📈"
+T160,2026-05-26 14:19:00,twitter,"loading up on $AMZN, great news"
+T161,2026-05-26 14:25:00,twitter,"selling all my $GOOGL right now, this looks bad"
+T162,2026-05-26 14:57:00,twitter,omg Alphabet is done 😱 
+T163,2026-05-26 15:01:00,twitter,omg Alphabet is done 😱 
+T164,2026-05-26 15:31:00,twitter,$GOOGL crashing?? heard rumours it's worse than reported
+T165,2026-05-26 17:25:00,twitter,"loading up on $AMZN, great news"
+T166,2026-05-27 09:13:00,twitter,omg Goldman Sachs is done 😱 operations
+T167,2026-05-27 09:26:00,twitter,Goldman Sachs fraud?? thread 🧵 operations
+T168,2026-05-27 09:30:00,twitter,omg Goldman Sachs is done 😱 operations
+T169,2026-05-27 10:53:00,twitter,$GS crashing?? heard rumours it's worse than reported
+T170,2026-05-27 12:54:00,twitter,Goldman Sachs fraud?? thread 🧵 operations
+T171,2026-05-27 15:04:00,twitter,"Chevron looking strong, bullish 📈"
+T172,2026-05-27 15:15:00,twitter,"loading up on $CVX, great news"
+T173,2026-05-27 17:42:00,twitter,"Chevron looking strong, bullish 📈"
+T174,2026-05-27 20:02:00,twitter,"loading up on $CVX, great news"
+T175,2026-05-28 15:08:00,twitter,"Johnson & Johnson looking strong, bullish 📈"
+T176,2026-05-28 16:26:00,twitter,"loading up on $JNJ, great news"
+T177,2026-05-28 17:42:00,twitter,"Goldman Sachs looking strong, bullish 📈"
+T178,2026-05-28 17:54:00,twitter,$JNJ to the moon 🚀 reduction
+T179,2026-05-28 19:27:00,twitter,$JNJ to the moon 🚀 reduction
+T180,2026-05-28 20:28:00,twitter,$GS to the moon 🚀 dismissed
+T181,2026-05-29 10:10:00,twitter,"loading up on $CVX, great news"
+T182,2026-05-29 10:47:00,twitter,"loading up on $CVX, great news"
+T183,2026-05-29 11:43:00,twitter,"loading up on $CVX, great news"
+T184,2026-05-29 11:57:00,twitter,"loading up on $MSFT, great news"
+T185,2026-05-29 12:40:00,twitter,"Chevron looking strong, bullish 📈"
+T186,2026-05-29 13:05:00,twitter,$CVX to the moon 🚀 {co}
+T187,2026-05-29 13:12:00,twitter,"Microsoft looking strong, bullish 📈"
+T188,2026-05-29 13:21:00,twitter,"loading up on $KO, great news"
+T189,2026-05-29 15:02:00,twitter,$MSFT to the moon 🚀 {co}
+T190,2026-05-29 17:14:00,twitter,$KO to the moon 🚀 guidance
+T191,2026-05-29 18:16:00,twitter,"loading up on $KO, great news"
+T192,2026-05-29 19:12:00,twitter,"Coca-Cola looking strong, bullish 📈"
+T193,2026-05-29 19:32:00,twitter,"Coca-Cola looking strong, bullish 📈"
+T194,2026-06-01 09:40:00,twitter,"loading up on $MSFT, great news"
+T195,2026-06-01 10:16:00,twitter,$GS crashing?? heard rumours it's worse than reported
+T196,2026-06-01 10:49:00,twitter,$GS crashing?? heard rumours it's worse than reported
+T197,2026-06-01 11:52:00,twitter,$MSFT to the moon 🚀 surge
+T198,2026-06-01 13:31:00,twitter,"selling all my $GS right now, this looks bad"
+T199,2026-06-01 16:14:00,twitter,omg Apple is done 😱 bid
+T200,2026-06-01 19:31:00,twitter,"selling all my $AAPL right now, this looks bad"
+T201,2026-06-02 11:14:00,twitter,"selling all my $JPM right now, this looks bad"
+T202,2026-06-02 11:18:00,twitter,"selling all my $JPM right now, this looks bad"
+T203,2026-06-02 11:37:00,twitter,JPMorgan fraud?? thread 🧵 margins
+T204,2026-06-02 13:43:00,twitter,"Coca-Cola looking strong, bullish 📈"
+T205,2026-06-02 14:53:00,twitter,"Coca-Cola looking strong, bullish 📈"
+T206,2026-06-02 15:48:00,twitter,"Coca-Cola looking strong, bullish 📈"
+T207,2026-06-02 18:43:00,twitter,"loading up on $KO, great news"
+T208,2026-06-04 11:12:00,twitter,$BA to the moon 🚀 demand
+T209,2026-06-04 11:16:00,twitter,"loading up on $BA, great news"
+T210,2026-06-04 11:16:00,twitter,$BA to the moon 🚀 demand
+T211,2026-06-04 12:42:00,twitter,Bank of America fraud?? thread 🧵 margins
+T212,2026-06-04 14:00:00,twitter,"loading up on $BA, great news"
+T213,2026-06-04 15:43:00,twitter,"Boeing looking strong, bullish 📈"
+T214,2026-06-04 16:09:00,twitter,"selling all my $GOOGL right now, this looks bad"
+T215,2026-06-04 16:23:00,twitter,"selling all my $BAC right now, this looks bad"
+T216,2026-06-04 16:25:00,twitter,$GOOGL crashing?? heard rumours it's worse than reported
+T217,2026-06-04 17:00:00,twitter,"selling all my $BAC right now, this looks bad"
+T218,2026-06-04 17:03:00,twitter,$GOOGL crashing?? heard rumours it's worse than reported
+T219,2026-06-04 18:20:00,twitter,Bank of America fraud?? thread 🧵 margins
+T220,2026-06-05 09:13:00,twitter,omg Amazon is done 😱 spike
+T221,2026-06-05 10:53:00,twitter,omg Boeing is done 😱 spike
+T222,2026-06-05 10:57:00,twitter,$BA crashing?? heard rumours it's worse than reported
+T223,2026-06-05 11:07:00,twitter,omg Amazon is done 😱 spike
+T224,2026-06-05 12:15:00,twitter,omg Boeing is done 😱 spike
+T225,2026-06-05 12:17:00,twitter,"selling all my $AMZN right now, this looks bad"
+T226,2026-06-05 13:43:00,twitter,$AMZN crashing?? heard rumours it's worse than reported
+T227,2026-06-05 14:59:00,twitter,"selling all my $AMZN right now, this looks bad"
+T228,2026-06-05 16:08:00,twitter,Goldman Sachs fraud?? thread 🧵 lines
+T229,2026-06-05 20:35:00,twitter,Goldman Sachs fraud?? thread 🧵 lines
+T230,2026-06-08 11:05:00,twitter,omg Alphabet is done 😱 margins
+T231,2026-06-08 11:08:00,twitter,$GOOGL crashing?? heard rumours it's worse than reported
+T232,2026-06-08 14:57:00,twitter,"JPMorgan looking strong, bullish 📈"
+T233,2026-06-08 15:44:00,twitter,Alphabet fraud?? thread 🧵 margins
+T234,2026-06-08 17:36:00,twitter,Alphabet fraud?? thread 🧵 margins
+T235,2026-06-08 18:08:00,twitter,"loading up on $JPM, great news"
+T236,2026-06-10 11:18:00,twitter,"Walmart looking strong, bullish 📈"
+T237,2026-06-10 12:01:00,twitter,"Walmart looking strong, bullish 📈"
+T238,2026-06-10 12:58:00,twitter,$WMT to the moon 🚀 demand
+T239,2026-06-10 12:59:00,twitter,"Walmart looking strong, bullish 📈"
+T240,2026-06-10 14:31:00,twitter,"loading up on $WMT, great news"
+T241,2026-06-11 11:27:00,twitter,"loading up on $XOM, great news"
+T242,2026-06-11 15:01:00,twitter,"Exxon Mobil looking strong, bullish 📈"
+T243,2026-06-11 15:25:00,twitter,"Exxon Mobil looking strong, bullish 📈"
+T244,2026-06-11 16:13:00,twitter,"loading up on $XOM, great news"
+T245,2026-06-11 16:38:00,twitter,$XOM to the moon 🚀 upbeat
+T246,2026-06-12 12:11:00,twitter,$KO crashing?? heard rumours it's worse than reported
+T247,2026-06-12 15:45:00,twitter,$KO crashing?? heard rumours it's worse than reported
+T248,2026-06-12 17:01:00,twitter,"selling all my $KO right now, this looks bad"
+T249,2026-06-15 09:39:00,twitter,"selling all my $AMZN right now, this looks bad"
+T250,2026-06-15 13:25:00,twitter,"loading up on $XOM, great news"
+T251,2026-06-15 14:42:00,twitter,Amazon fraud?? thread 🧵 found
+T252,2026-06-15 15:04:00,twitter,"Exxon Mobil looking strong, bullish 📈"
+T253,2026-06-16 11:34:00,twitter,$PFE crashing?? heard rumours it's worse than reported
+T254,2026-06-16 11:57:00,twitter,"selling all my $PFE right now, this looks bad"
+T255,2026-06-16 12:07:00,twitter,$PFE crashing?? heard rumours it's worse than reported
+T256,2026-06-16 12:18:00,twitter,"loading up on $AAPL, great news"
+T257,2026-06-16 12:40:00,twitter,"loading up on $AAPL, great news"
+T258,2026-06-16 12:43:00,twitter,"Apple looking strong, bullish 📈"
+T259,2026-06-16 13:21:00,twitter,"selling all my $PFE right now, this looks bad"
+T260,2026-06-16 15:07:00,twitter,$AAPL to the moon 🚀 demand
+T261,2026-06-18 09:19:00,twitter,$AAPL crashing?? heard rumours it's worse than reported
+T262,2026-06-18 09:33:00,twitter,Apple fraud?? thread 🧵 
+T263,2026-06-18 11:11:00,twitter,$AAPL crashing?? heard rumours it's worse than reported
+T264,2026-06-18 11:35:00,twitter,"selling all my $AAPL right now, this looks bad"
+T265,2026-06-18 13:15:00,twitter,$AAPL crashing?? heard rumours it's worse than reported
+T266,2026-06-18 16:10:00,twitter,omg Apple is done 😱 
+T267,2026-06-18 16:32:00,twitter,"loading up on $BAC, great news"
+T268,2026-06-18 17:22:00,twitter,"Bank of America looking strong, bullish 📈"
+T269,2026-06-18 17:31:00,twitter,"loading up on $BAC, great news"
+T270,2026-06-18 17:40:00,twitter,"loading up on $BAC, great news"
+T271,2026-06-19 09:10:00,twitter,$GOOGL to the moon 🚀 {co}
+T272,2026-06-19 09:17:00,twitter,"Alphabet looking strong, bullish 📈"
+T273,2026-06-19 10:14:00,twitter,"loading up on $GOOGL, great news"
+T274,2026-06-19 12:53:00,twitter,"Alphabet looking strong, bullish 📈"
+T275,2026-06-19 17:53:00,twitter,"loading up on $MSFT, great news"
+T276,2026-06-19 18:12:00,twitter,"Microsoft looking strong, bullish 📈"
+T277,2026-06-22 12:15:00,twitter,omg Coca-Cola is done 😱 defaults
+T278,2026-06-22 12:46:00,twitter,omg Coca-Cola is done 😱 defaults
+T279,2026-06-22 13:10:00,twitter,$KO crashing?? heard rumours it's worse than reported
+T280,2026-06-22 13:19:00,twitter,Coca-Cola fraud?? thread 🧵 defaults
+T281,2026-06-23 14:54:00,twitter,"selling all my $MSFT right now, this looks bad"
+T282,2026-06-23 15:57:00,twitter,"selling all my $XOM right now, this looks bad"
+T283,2026-06-23 16:06:00,twitter,omg Microsoft is done 😱 costs
+T284,2026-06-23 16:35:00,twitter,"selling all my $XOM right now, this looks bad"
+T285,2026-06-23 16:53:00,twitter,Microsoft fraud?? thread 🧵 costs
+T286,2026-06-23 16:57:00,twitter,Microsoft fraud?? thread 🧵 costs
+T287,2026-06-24 09:08:00,twitter,omg Coca-Cola is done 😱 rise
+T288,2026-06-24 10:07:00,twitter,Coca-Cola fraud?? thread 🧵 rise
+T289,2026-06-24 12:06:00,twitter,$KO crashing?? heard rumours it's worse than reported
+T290,2026-06-24 13:17:00,twitter,Coca-Cola fraud?? thread 🧵 rise
+T291,2026-06-24 13:29:00,twitter,omg Coca-Cola is done 😱 rise
+T292,2026-06-25 12:36:00,twitter,"Amazon looking strong, bullish 📈"
+T293,2026-06-25 13:09:00,twitter,Johnson & Johnson fraud?? thread 🧵 fine
+T294,2026-06-25 13:43:00,twitter,$JNJ crashing?? heard rumours it's worse than reported
+T295,2026-06-25 14:00:00,twitter,$AMZN to the moon 🚀 surge
+T296,2026-06-25 17:01:00,twitter,$AMZN to the moon 🚀 surge
+T297,2026-06-26 11:12:00,twitter,Coca-Cola fraud?? thread 🧵 found
+T298,2026-06-26 14:04:00,twitter,"Apple looking strong, bullish 📈"
+T299,2026-06-26 14:30:00,twitter,"loading up on $AAPL, great news"
+T300,2026-06-26 14:51:00,twitter,$AAPL to the moon 🚀 reduction
+T301,2026-06-26 16:20:00,twitter,"loading up on $AAPL, great news"
+T302,2026-06-26 16:21:00,twitter,omg Coca-Cola is done 😱 found
+T303,2026-06-26 17:08:00,twitter,$AAPL to the moon 🚀 reduction
+T304,2026-06-29 10:35:00,twitter,"selling all my $PFE right now, this looks bad"
+T305,2026-06-29 11:02:00,twitter,omg Pfizer is done 😱 
+T306,2026-06-29 12:10:00,twitter,"selling all my $PFE right now, this looks bad"
+T307,2026-06-29 12:47:00,twitter,omg Pfizer is done 😱 
+T308,2026-06-29 12:55:00,twitter,"Coca-Cola looking strong, bullish 📈"
+T309,2026-06-29 13:15:00,twitter,$BA to the moon 🚀 improves
+T310,2026-06-29 13:26:00,twitter,$WMT crashing?? heard rumours it's worse than reported
+T311,2026-06-29 13:27:00,twitter,$JNJ to the moon 🚀 agreement
+T312,2026-06-29 13:30:00,twitter,$WMT crashing?? heard rumours it's worse than reported
+T313,2026-06-29 13:35:00,twitter,$WMT crashing?? heard rumours it's worse than reported
+T314,2026-06-29 14:19:00,twitter,$KO to the moon 🚀 growth
+T315,2026-06-29 14:36:00,twitter,omg Walmart is done 😱 forecast
+T316,2026-06-29 15:04:00,twitter,"loading up on $JNJ, great news"
+T317,2026-06-29 15:13:00,twitter,"Coca-Cola looking strong, bullish 📈"
+T318,2026-06-29 15:33:00,twitter,$JNJ to the moon 🚀 agreement
+T319,2026-06-29 15:45:00,twitter,"Coca-Cola looking strong, bullish 📈"
+T320,2026-06-29 16:46:00,twitter,$PFE to the moon 🚀 {co}
+T321,2026-06-29 17:44:00,twitter,$PFE to the moon 🚀 {co}
+T322,2026-06-29 18:11:00,twitter,$JNJ to the moon 🚀 agreement
+T323,2026-06-29 18:31:00,twitter,$BA to the moon 🚀 improves
+T324,2026-06-29 19:17:00,twitter,omg Walmart is done 😱 forecast
+T325,2026-06-29 19:36:00,twitter,$BA to the moon 🚀 improves
+T326,2026-06-30 10:23:00,twitter,omg JPMorgan is done 😱 fine
+T327,2026-06-30 11:58:00,twitter,$JPM crashing?? heard rumours it's worse than reported
+T328,2026-06-30 12:42:00,twitter,JPMorgan fraud?? thread 🧵 fine
+T329,2026-06-30 13:17:00,twitter,JPMorgan fraud?? thread 🧵 fine
+T330,2026-06-30 18:21:00,twitter,$GOOGL crashing?? heard rumours it's worse than reported
+T331,2026-06-30 20:07:00,twitter,$GOOGL crashing?? heard rumours it's worse than reported
+T332,2026-06-30 20:09:00,twitter,Alphabet fraud?? thread 🧵 worried
+T333,2026-07-01 08:20:00,twitter,$WMT to the moon 🚀 {co}
+T334,2026-07-01 08:57:00,twitter,"loading up on $WMT, great news"
+T335,2026-07-01 11:07:00,twitter,"loading up on $WMT, great news"
+T336,2026-07-01 11:19:00,twitter,Goldman Sachs fraud?? thread 🧵 lines
+T337,2026-07-01 12:09:00,twitter,"Walmart looking strong, bullish 📈"
+T338,2026-07-01 15:06:00,twitter,"selling all my $GS right now, this looks bad"
+T339,2026-07-01 16:20:00,twitter,"selling all my $GS right now, this looks bad"
+T340,2026-07-02 08:09:00,twitter,"Alphabet looking strong, bullish 📈"
+T341,2026-07-02 10:07:00,twitter,$GOOGL to the moon 🚀 dismissed
+T342,2026-07-02 10:25:00,twitter,$PFE crashing?? heard rumours it's worse than reported
+T343,2026-07-02 10:56:00,twitter,"Alphabet looking strong, bullish 📈"
+T344,2026-07-02 11:20:00,twitter,"selling all my $PFE right now, this looks bad"
+T345,2026-07-02 11:38:00,twitter,$AAPL crashing?? heard rumours it's worse than reported
+T346,2026-07-02 12:00:00,twitter,Goldman Sachs fraud?? thread 🧵 found
+T347,2026-07-02 12:44:00,twitter,$GOOGL to the moon 🚀 dismissed
+T348,2026-07-02 13:17:00,twitter,omg Apple is done 😱 lines
+T349,2026-07-02 13:21:00,twitter,"loading up on $GOOGL, great news"
+T350,2026-07-02 13:32:00,twitter,$GS crashing?? heard rumours it's worse than reported
+T351,2026-07-02 15:53:00,twitter,Goldman Sachs fraud?? thread 🧵 found
+T352,2026-07-02 17:09:00,twitter,omg Apple is done 😱 lines
+T353,2026-07-03 10:59:00,twitter,Alphabet fraud?? thread 🧵 disappointed
+T354,2026-07-03 11:04:00,twitter,"loading up on $BA, great news"
+T355,2026-07-03 11:15:00,twitter,"loading up on $BA, great news"
+T356,2026-07-03 11:30:00,twitter,Walmart fraud?? thread 🧵 bid
+T357,2026-07-03 12:56:00,twitter,Walmart fraud?? thread 🧵 bid
+T358,2026-07-03 13:01:00,twitter,$BA to the moon 🚀 dismissed
+T359,2026-07-03 13:15:00,twitter,Alphabet fraud?? thread 🧵 disappointed
+T360,2026-07-03 13:29:00,twitter,omg Alphabet is done 😱 disappointed
+T361,2026-07-03 13:35:00,twitter,"Goldman Sachs looking strong, bullish 📈"
+T362,2026-07-03 13:47:00,twitter,$GOOGL crashing?? heard rumours it's worse than reported
+T363,2026-07-03 14:22:00,twitter,"selling all my $WMT right now, this looks bad"
+T364,2026-07-03 14:27:00,twitter,$GOOGL crashing?? heard rumours it's worse than reported
+T365,2026-07-03 15:00:00,twitter,$BA to the moon 🚀 dismissed
+T366,2026-07-03 15:47:00,twitter,omg Walmart is done 😱 bid
+T367,2026-07-03 16:01:00,twitter,"Boeing looking strong, bullish 📈"
+T368,2026-07-03 16:13:00,twitter,"loading up on $GS, great news"
+T369,2026-07-06 09:01:00,twitter,omg JPMorgan is done 😱 
+T370,2026-07-06 09:09:00,twitter,JPMorgan fraud?? thread 🧵 
+T371,2026-07-06 09:36:00,twitter,"selling all my $BAC right now, this looks bad"
+T372,2026-07-06 10:58:00,twitter,omg Coca-Cola is done 😱 
+T373,2026-07-06 11:28:00,twitter,"selling all my $BAC right now, this looks bad"
+T374,2026-07-06 12:17:00,twitter,$BAC crashing?? heard rumours it's worse than reported
+T375,2026-07-06 12:23:00,twitter,"selling all my $WMT right now, this looks bad"
+T376,2026-07-06 12:29:00,twitter,"selling all my $BAC right now, this looks bad"
+T377,2026-07-06 13:16:00,twitter,$KO crashing?? heard rumours it's worse than reported
+T378,2026-07-06 14:21:00,twitter,omg Walmart is done 😱 
+T379,2026-07-06 14:38:00,twitter,Coca-Cola fraud?? thread 🧵 
+T380,2026-07-06 14:46:00,twitter,"selling all my $JPM right now, this looks bad"
+T381,2026-07-06 14:48:00,twitter,omg Walmart is done 😱 
+T382,2026-07-06 15:01:00,twitter,$KO crashing?? heard rumours it's worse than reported
+T383,2026-07-06 15:05:00,twitter,Bank of America fraud?? thread 🧵 
+T384,2026-07-06 15:29:00,twitter,"selling all my $KO right now, this looks bad"
+T385,2026-07-06 15:44:00,twitter,Walmart fraud?? thread 🧵 
+T386,2026-07-06 16:32:00,twitter,"selling all my $BAC right now, this looks bad"
+T387,2026-07-06 16:36:00,twitter,$KO crashing?? heard rumours it's worse than reported
+T388,2026-07-06 16:57:00,twitter,Bank of America fraud?? thread 🧵 
+T389,2026-07-06 17:11:00,twitter,JPMorgan fraud?? thread 🧵 
+T390,2026-07-06 17:35:00,twitter,$KO crashing?? heard rumours it's worse than reported
+T391,2026-07-06 17:50:00,twitter,$WMT crashing?? heard rumours it's worse than reported
+T392,2026-07-09 09:16:00,twitter,$WMT to the moon 🚀 {co}
+T393,2026-07-09 10:54:00,twitter,"Walmart looking strong, bullish 📈"
+T394,2026-07-09 12:36:00,twitter,"loading up on $WMT, great news"
+T395,2026-07-09 14:27:00,twitter,"loading up on $WMT, great news"
+T396,2026-07-10 14:56:00,twitter,"selling all my $BA right now, this looks bad"
+T397,2026-07-10 16:15:00,twitter,omg Boeing is done 😱 rise
+T398,2026-07-10 16:59:00,twitter,omg Boeing is done 😱 rise
+T399,2026-07-10 19:36:00,twitter,"selling all my $BA right now, this looks bad"
+T400,2026-07-14 15:14:00,twitter,"loading up on $XOM, great news"
+T401,2026-07-14 15:26:00,twitter,$XOM to the moon 🚀 agreement
+T402,2026-07-15 14:07:00,twitter,"loading up on $WMT, great news"
+T403,2026-07-15 14:16:00,twitter,"loading up on $WMT, great news"
+T404,2026-07-15 15:22:00,twitter,"Walmart looking strong, bullish 📈"
+T405,2026-07-16 14:01:00,twitter,"Boeing looking strong, bullish 📈"
+T406,2026-07-16 14:07:00,twitter,"selling all my $XOM right now, this looks bad"
+T407,2026-07-16 14:45:00,twitter,"loading up on $BA, great news"
+T408,2026-07-16 15:32:00,twitter,Exxon Mobil fraud?? thread 🧵 spike
+T409,2026-07-16 15:54:00,twitter,$XOM crashing?? heard rumours it's worse than reported
+T410,2026-07-16 17:27:00,twitter,"loading up on $BA, great news"
+T411,2026-07-16 17:44:00,twitter,"selling all my $XOM right now, this looks bad"
+T412,2026-07-17 09:41:00,twitter,"selling all my $BA right now, this looks bad"
+T413,2026-07-17 12:21:00,twitter,Boeing fraud?? thread 🧵 bid
+T414,2026-07-17 13:21:00,twitter,"selling all my $BA right now, this looks bad"
+T415,2026-07-20 13:48:00,twitter,"selling all my $KO right now, this looks bad"
+T416,2026-07-20 14:08:00,twitter,"selling all my $JNJ right now, this looks bad"
+T417,2026-07-20 14:25:00,twitter,$JNJ crashing?? heard rumours it's worse than reported
+T418,2026-07-20 14:39:00,twitter,"selling all my $KO right now, this looks bad"
+T419,2026-07-20 14:46:00,twitter,$JPM to the moon 🚀 reduction
+T420,2026-07-20 14:56:00,twitter,$JPM to the moon 🚀 reduction
+T421,2026-07-20 15:27:00,twitter,omg Johnson & Johnson is done 😱 found
+T422,2026-07-20 16:09:00,twitter,"loading up on $JPM, great news"
+T423,2026-07-20 16:41:00,twitter,"loading up on $JPM, great news"
+T424,2026-07-20 18:00:00,twitter,"selling all my $JNJ right now, this looks bad"
+T425,2026-07-23 14:03:00,twitter,$AAPL crashing?? heard rumours it's worse than reported
+T426,2026-07-23 14:04:00,twitter,omg Apple is done 😱 found
+T427,2026-07-23 14:09:00,twitter,$GOOGL to the moon 🚀 dismissed
+T428,2026-07-23 14:19:00,twitter,"Alphabet looking strong, bullish 📈"
+T429,2026-07-23 14:24:00,twitter,"selling all my $AAPL right now, this looks bad"
+T430,2026-07-23 14:29:00,twitter,$AAPL crashing?? heard rumours it's worse than reported
+T431,2026-07-23 15:57:00,twitter,omg Apple is done 😱 found
+T432,2026-07-23 16:05:00,twitter,"loading up on $GOOGL, great news"
+T433,2026-07-23 16:09:00,twitter,"Alphabet looking strong, bullish 📈"
+T434,2026-07-23 17:56:00,twitter,"Alphabet looking strong, bullish 📈"
+T435,2026-07-24 10:39:00,twitter,$AMZN crashing?? heard rumours it's worse than reported
+T436,2026-07-24 14:04:00,twitter,Walmart fraud?? thread 🧵 fine
+T437,2026-07-24 14:16:00,twitter,$AMZN crashing?? heard rumours it's worse than reported
+T438,2026-07-24 15:26:00,twitter,omg Amazon is done 😱 
+T439,2026-07-24 16:01:00,twitter,"selling all my $WMT right now, this looks bad"
+T440,2026-07-24 16:12:00,twitter,omg Walmart is done 😱 fine
+T441,2026-07-24 16:18:00,twitter,"selling all my $AMZN right now, this looks bad"
+T442,2026-07-24 16:36:00,twitter,$WMT crashing?? heard rumours it's worse than reported
+T443,2026-07-24 17:02:00,twitter,omg Amazon is done 😱 
+T444,2026-07-27 13:31:00,twitter,"selling all my $MSFT right now, this looks bad"
+T445,2026-07-27 13:38:00,twitter,omg Microsoft is done 😱 bid
+T446,2026-07-27 14:22:00,twitter,$AMZN to the moon 🚀 agreement
+T447,2026-07-27 14:47:00,twitter,omg Microsoft is done 😱 bid
+T448,2026-07-27 15:17:00,twitter,"loading up on $BAC, great news"
+T449,2026-07-27 16:00:00,twitter,"loading up on $AMZN, great news"
+T450,2026-07-27 16:46:00,twitter,$MSFT crashing?? heard rumours it's worse than reported
+T451,2026-07-27 17:23:00,twitter,"Bank of America looking strong, bullish 📈"
+T452,2026-07-28 12:13:00,twitter,"loading up on $JNJ, great news"
+T453,2026-07-28 12:26:00,twitter,"loading up on $JNJ, great news"
+T454,2026-07-28 13:03:00,twitter,"Johnson & Johnson looking strong, bullish 📈"
+T455,2026-07-28 16:28:00,twitter,"loading up on $JNJ, great news"
+T456,2026-07-28 17:38:00,twitter,"loading up on $JNJ, great news"
+T457,2026-07-29 13:12:00,twitter,Alphabet fraud?? thread 🧵 guidance
+T458,2026-07-29 13:14:00,twitter,Alphabet fraud?? thread 🧵 guidance
+T459,2026-07-29 13:21:00,twitter,"loading up on $AAPL, great news"
+T460,2026-07-29 16:26:00,twitter,$GOOGL crashing?? heard rumours it's worse than reported
+T461,2026-07-29 16:57:00,twitter,"Apple looking strong, bullish 📈"
+T462,2026-07-29 17:33:00,twitter,$AAPL to the moon 🚀 surge
+T463,2026-07-29 18:03:00,twitter,"loading up on $AAPL, great news"
+T464,2026-07-29 18:12:00,twitter,"Chevron looking strong, bullish 📈"
+T465,2026-07-29 18:41:00,twitter,"loading up on $CVX, great news"
+T466,2026-07-29 18:45:00,twitter,$CVX to the moon 🚀 surge
+T467,2026-07-29 19:02:00,twitter,"loading up on $AAPL, great news"
+T468,2026-07-29 19:03:00,twitter,"loading up on $CVX, great news"
+T469,2026-07-29 20:12:00,twitter,"loading up on $CVX, great news"
+T470,2026-07-30 10:46:00,twitter,Apple fraud?? thread 🧵 penalty
+T471,2026-07-30 13:07:00,twitter,"loading up on $WMT, great news"
+T472,2026-07-30 13:26:00,twitter,Apple fraud?? thread 🧵 penalty
+T473,2026-07-30 13:39:00,twitter,omg Johnson & Johnson is done 😱 disappointed
+T474,2026-07-30 13:57:00,twitter,"loading up on $KO, great news"
+T475,2026-07-30 14:24:00,twitter,$JNJ crashing?? heard rumours it's worse than reported
+T476,2026-07-30 15:07:00,twitter,$WMT to the moon 🚀 granted
+T477,2026-07-30 15:20:00,twitter,"loading up on $KO, great news"
+T478,2026-07-30 15:36:00,twitter,$WMT to the moon 🚀 granted
+T479,2026-07-30 16:31:00,twitter,Goldman Sachs fraud?? thread 🧵 found
+T480,2026-07-30 16:35:00,twitter,"loading up on $KO, great news"
+T481,2026-07-30 16:54:00,twitter,$KO to the moon 🚀 {co}
+T482,2026-07-30 17:12:00,twitter,"selling all my $GS right now, this looks bad"
+T483,2026-07-30 17:19:00,twitter,"selling all my $GS right now, this looks bad"
+T484,2026-07-30 17:59:00,twitter,"loading up on $WMT, great news"
+T485,2026-07-30 18:02:00,twitter,"loading up on $KO, great news"
+T486,2026-07-30 18:22:00,twitter,"Walmart looking strong, bullish 📈"
+T487,2026-07-30 19:03:00,twitter,omg Goldman Sachs is done 😱 found
+T488,2026-07-31 13:38:00,twitter,$GS crashing?? heard rumours it's worse than reported
+T489,2026-07-31 15:06:00,twitter,Goldman Sachs fraud?? thread 🧵 guidance
+T490,2026-07-31 16:16:00,twitter,Goldman Sachs fraud?? thread 🧵 guidance
+T491,2026-07-31 17:32:00,twitter,"selling all my $GS right now, this looks bad"
+T492,2026-07-31 18:28:00,twitter,"selling all my $GS right now, this looks bad"
+T493,2026-08-03 11:09:00,twitter,$PFE crashing?? heard rumours it's worse than reported
+T494,2026-08-03 12:41:00,twitter,$PFE crashing?? heard rumours it's worse than reported
+T495,2026-08-03 13:26:00,twitter,$JNJ to the moon 🚀 {co}
+T496,2026-08-03 13:39:00,twitter,"selling all my $PFE right now, this looks bad"
+T497,2026-08-03 14:17:00,twitter,"loading up on $BAC, great news"
+T498,2026-08-03 14:23:00,twitter,"Bank of America looking strong, bullish 📈"
+T499,2026-08-03 15:23:00,twitter,omg Pfizer is done 😱 
+T500,2026-08-03 15:32:00,twitter,$JNJ to the moon 🚀 {co}
+T501,2026-08-03 16:43:00,twitter,"Johnson & Johnson looking strong, bullish 📈"
+T502,2026-08-03 16:45:00,twitter,$PFE crashing?? heard rumours it's worse than reported
+T503,2026-08-03 17:58:00,twitter,omg Pfizer is done 😱 
+T504,2026-08-03 19:36:00,twitter,$BAC to the moon 🚀 earnings
+T505,2026-08-03 20:26:00,twitter,"Bank of America looking strong, bullish 📈"
+T506,2026-08-03 20:37:00,twitter,"loading up on $BAC, great news"
+T507,2026-08-04 15:39:00,twitter,Amazon fraud?? thread 🧵 guidance
+T508,2026-08-04 16:31:00,twitter,$AMZN crashing?? heard rumours it's worse than reported
+T509,2026-08-04 16:59:00,twitter,Amazon fraud?? thread 🧵 guidance
+T510,2026-08-04 18:18:00,twitter,Amazon fraud?? thread 🧵 guidance
+T511,2026-08-05 09:53:00,twitter,$BAC to the moon 🚀 guidance
+T512,2026-08-05 12:41:00,twitter,$BAC to the moon 🚀 guidance
+T513,2026-08-05 13:24:00,twitter,"Goldman Sachs looking strong, bullish 📈"
+T514,2026-08-05 14:39:00,twitter,Pfizer fraud?? thread 🧵 worried
+T515,2026-08-05 14:57:00,twitter,$BA to the moon 🚀 granted
+T516,2026-08-05 15:02:00,twitter,"selling all my $PFE right now, this looks bad"
+T517,2026-08-05 15:03:00,twitter,$GS to the moon 🚀 {co}
+T518,2026-08-05 15:22:00,twitter,$BA to the moon 🚀 granted
+T519,2026-08-05 15:42:00,twitter,"Goldman Sachs looking strong, bullish 📈"
+T520,2026-08-05 16:03:00,twitter,"loading up on $BA, great news"
+T521,2026-08-05 16:35:00,twitter,omg Pfizer is done 😱 worried
+T522,2026-08-05 16:38:00,twitter,"selling all my $PFE right now, this looks bad"
+T523,2026-08-05 17:01:00,twitter,$GS to the moon 🚀 {co}
+T524,2026-08-05 17:40:00,twitter,"loading up on $GS, great news"
+T525,2026-08-05 18:37:00,twitter,omg Pfizer is done 😱 worried
+T526,2026-08-07 09:26:00,twitter,Pfizer fraud?? thread 🧵 
+T527,2026-08-07 09:44:00,twitter,"selling all my $PFE right now, this looks bad"
+T528,2026-08-07 09:46:00,twitter,omg Pfizer is done 😱 
+T529,2026-08-07 11:38:00,twitter,Pfizer fraud?? thread 🧵 
+T530,2026-08-07 12:16:00,twitter,"selling all my $JPM right now, this looks bad"
+T531,2026-08-07 13:25:00,twitter,"selling all my $PFE right now, this looks bad"
+T532,2026-08-07 13:43:00,twitter,$JPM crashing?? heard rumours it's worse than reported
+T533,2026-08-07 15:38:00,twitter,$PFE crashing?? heard rumours it's worse than reported
+T534,2026-08-07 17:54:00,twitter,omg Pfizer is done 😱 
+T535,2026-08-07 18:07:00,twitter,omg JPMorgan is done 😱 operations
+T536,2026-08-07 18:08:00,twitter,omg JPMorgan is done 😱 operations
+T537,2026-08-10 08:07:00,twitter,"selling all my $PFE right now, this looks bad"
+T538,2026-08-10 09:52:00,twitter,"selling all my $PFE right now, this looks bad"
+T539,2026-08-10 11:58:00,twitter,omg Pfizer is done 😱 guidance
+T540,2026-08-10 12:20:00,twitter,"selling all my $PFE right now, this looks bad"
+T541,2026-08-10 12:37:00,twitter,"selling all my $PFE right now, this looks bad"
+T542,2026-08-10 12:53:00,twitter,Boeing fraud?? thread 🧵 lines
+T543,2026-08-10 13:57:00,twitter,"selling all my $BA right now, this looks bad"
+T544,2026-08-10 15:15:00,twitter,"loading up on $GOOGL, great news"
+T545,2026-08-10 15:42:00,twitter,"selling all my $BA right now, this looks bad"
+T546,2026-08-10 16:26:00,twitter,"Bank of America looking strong, bullish 📈"
+T547,2026-08-10 16:33:00,twitter,"Bank of America looking strong, bullish 📈"
+T548,2026-08-10 16:45:00,twitter,"loading up on $GOOGL, great news"
+T549,2026-08-10 17:02:00,twitter,$BAC to the moon 🚀 {co}
+T550,2026-08-10 17:05:00,twitter,"loading up on $GOOGL, great news"
+T551,2026-08-10 17:11:00,twitter,"loading up on $BAC, great news"
+T552,2026-08-10 17:24:00,twitter,$BA crashing?? heard rumours it's worse than reported
+T553,2026-08-10 18:53:00,twitter,"loading up on $GOOGL, great news"
+T554,2026-08-13 11:54:00,twitter,omg Walmart is done 😱 
+T555,2026-08-13 12:01:00,twitter,"selling all my $BAC right now, this looks bad"
+T556,2026-08-13 12:50:00,twitter,"selling all my $WMT right now, this looks bad"
+T557,2026-08-13 14:01:00,twitter,$BAC crashing?? heard rumours it's worse than reported
+T558,2026-08-13 14:33:00,twitter,$BAC crashing?? heard rumours it's worse than reported
+T559,2026-08-13 14:35:00,twitter,"selling all my $WMT right now, this looks bad"
+T560,2026-08-13 15:28:00,twitter,"selling all my $WMT right now, this looks bad"
+T561,2026-08-13 16:04:00,twitter,omg Bank of America is done 😱 
+T562,2026-08-13 17:27:00,twitter,Walmart fraud?? thread 🧵 
+T563,2026-08-14 14:20:00,twitter,$CVX crashing?? heard rumours it's worse than reported
+T564,2026-08-14 14:23:00,twitter,"selling all my $CVX right now, this looks bad"
+T565,2026-08-14 16:32:00,twitter,"selling all my $CVX right now, this looks bad"
+T566,2026-08-14 17:07:00,twitter,omg Chevron is done 😱 costs
+T567,2026-08-14 18:58:00,twitter,Chevron fraud?? thread 🧵 costs
+T568,2026-08-18 10:20:00,twitter,$PFE crashing?? heard rumours it's worse than reported
+T569,2026-08-18 11:47:00,twitter,"selling all my $PFE right now, this looks bad"
+T570,2026-08-18 12:12:00,twitter,Pfizer fraud?? thread 🧵 operations
+T571,2026-08-18 13:46:00,twitter,"selling all my $PFE right now, this looks bad"
+T572,2026-08-18 14:16:00,twitter,"selling all my $JNJ right now, this looks bad"
+T573,2026-08-18 14:59:00,twitter,Pfizer fraud?? thread 🧵 operations
+T574,2026-08-18 15:15:00,twitter,"selling all my $JNJ right now, this looks bad"
+T575,2026-08-18 15:27:00,twitter,Johnson & Johnson fraud?? thread 🧵 found
+T576,2026-08-18 17:25:00,twitter,omg Johnson & Johnson is done 😱 found
+T577,2026-08-18 19:12:00,twitter,omg Johnson & Johnson is done 😱 found
+T578,2026-08-19 09:41:00,twitter,$GS crashing?? heard rumours it's worse than reported
+T579,2026-08-19 11:01:00,twitter,$GS crashing?? heard rumours it's worse than reported
+T580,2026-08-19 11:42:00,twitter,"selling all my $GS right now, this looks bad"
+T581,2026-08-19 11:57:00,twitter,omg Goldman Sachs is done 😱 operations
+T582,2026-08-20 08:44:00,twitter,"selling all my $GOOGL right now, this looks bad"
+T583,2026-08-20 08:45:00,twitter,"selling all my $GOOGL right now, this looks bad"
+T584,2026-08-20 11:46:00,twitter,Alphabet fraud?? thread 🧵 defaults
+T585,2026-08-24 10:48:00,twitter,"Boeing looking strong, bullish 📈"
+T586,2026-08-24 11:13:00,twitter,"Boeing looking strong, bullish 📈"
+T587,2026-08-24 11:34:00,twitter,"loading up on $BA, great news"
+T588,2026-08-24 12:09:00,twitter,"loading up on $AAPL, great news"
+T589,2026-08-24 12:12:00,twitter,"loading up on $BA, great news"
+T590,2026-08-24 14:17:00,twitter,$AAPL to the moon 🚀 {co}
+T591,2026-08-24 16:14:00,twitter,$AAPL to the moon 🚀 {co}
+T592,2026-08-24 18:39:00,twitter,"loading up on $AAPL, great news"
+T593,2026-08-25 11:14:00,twitter,$AMZN to the moon 🚀 guidance
+T594,2026-08-25 11:22:00,twitter,"Amazon looking strong, bullish 📈"
+T595,2026-08-25 12:08:00,twitter,$GOOGL to the moon 🚀 upbeat
+T596,2026-08-25 12:24:00,twitter,$GOOGL to the moon 🚀 upbeat
+T597,2026-08-25 12:38:00,twitter,"loading up on $AMZN, great news"
+T598,2026-08-25 13:38:00,twitter,"Amazon looking strong, bullish 📈"
+T599,2026-08-25 14:56:00,twitter,"Alphabet looking strong, bullish 📈"
+T600,2026-08-25 15:00:00,twitter,$AMZN to the moon 🚀 guidance
+T601,2026-08-25 15:55:00,twitter,"Alphabet looking strong, bullish 📈"
+T602,2026-08-27 08:26:00,twitter,$MSFT to the moon 🚀 upbeat
+T603,2026-08-27 09:00:00,twitter,"Microsoft looking strong, bullish 📈"
+T604,2026-08-27 09:49:00,twitter,"selling all my $WMT right now, this looks bad"
+T605,2026-08-27 11:28:00,twitter,omg Walmart is done 😱 lines
+T606,2026-08-27 12:57:00,twitter,$MSFT to the moon 🚀 upbeat
+T607,2026-08-27 13:12:00,twitter,"selling all my $WMT right now, this looks bad"
+T608,2026-08-27 13:19:00,twitter,"loading up on $MSFT, great news"
+T609,2026-08-27 13:24:00,twitter,$MSFT to the moon 🚀 upbeat
+T610,2026-08-27 14:50:00,twitter,$WMT crashing?? heard rumours it's worse than reported
+T611,2026-08-31 14:27:00,twitter,"loading up on $BA, great news"
+T612,2026-08-31 14:48:00,twitter,$KO to the moon 🚀 {co}
+T613,2026-08-31 15:51:00,twitter,"loading up on $KO, great news"
+T614,2026-08-31 17:44:00,twitter,$BA to the moon 🚀 earnings
+T615,2026-08-31 18:01:00,twitter,"loading up on $BA, great news"
+T616,2026-09-01 10:09:00,twitter,Microsoft fraud?? thread 🧵 guidance
+T617,2026-09-01 11:34:00,twitter,$AAPL to the moon 🚀 surge
+T618,2026-09-01 12:11:00,twitter,"loading up on $JPM, great news"
+T619,2026-09-01 12:16:00,twitter,"loading up on $JPM, great news"
+T620,2026-09-01 12:58:00,twitter,$AAPL to the moon 🚀 surge
+T621,2026-09-01 14:07:00,twitter,Microsoft fraud?? thread 🧵 guidance
+T622,2026-09-01 14:12:00,twitter,"Apple looking strong, bullish 📈"
+T623,2026-09-01 14:18:00,twitter,$JPM to the moon 🚀 granted
+T624,2026-09-02 10:48:00,twitter,"Chevron looking strong, bullish 📈"
+T625,2026-09-02 11:36:00,twitter,$CVX to the moon 🚀 reduction
+T626,2026-09-02 12:40:00,twitter,omg Bank of America is done 😱 worried
+T627,2026-09-02 13:04:00,twitter,"loading up on $CVX, great news"
+T628,2026-09-02 13:36:00,twitter,"Chevron looking strong, bullish 📈"
+T629,2026-09-02 14:02:00,twitter,"loading up on $CVX, great news"
+T630,2026-09-02 14:53:00,twitter,"loading up on $BA, great news"
+T631,2026-09-02 14:57:00,twitter,"selling all my $BAC right now, this looks bad"
+T632,2026-09-02 15:02:00,twitter,$BA to the moon 🚀 improves
+T633,2026-09-02 15:12:00,twitter,"loading up on $BA, great news"
+T634,2026-09-02 17:21:00,twitter,"Boeing looking strong, bullish 📈"
+T635,2026-09-02 19:02:00,twitter,$BA to the moon 🚀 improves
+T636,2026-09-03 14:19:00,twitter,JPMorgan fraud?? thread 🧵 penalty
+T637,2026-09-03 16:48:00,twitter,Exxon Mobil fraud?? thread 🧵 margins
+T638,2026-09-03 17:10:00,twitter,$XOM crashing?? heard rumours it's worse than reported
+T639,2026-09-03 20:13:00,twitter,Exxon Mobil fraud?? thread 🧵 margins
+T640,2026-09-03 20:27:00,twitter,omg JPMorgan is done 😱 penalty
+T641,2026-09-04 14:24:00,twitter,"loading up on $CVX, great news"
+T642,2026-09-04 15:03:00,twitter,"loading up on $CVX, great news"
+T643,2026-09-04 15:23:00,twitter,$CVX to the moon 🚀 growth
+T644,2026-09-04 18:18:00,twitter,$CVX to the moon 🚀 growth
+T645,2026-09-07 13:58:00,twitter,"loading up on $GS, great news"
+T646,2026-09-07 15:10:00,twitter,"loading up on $GS, great news"
+T647,2026-09-07 15:50:00,twitter,$GS to the moon 🚀 upbeat
+T648,2026-09-07 18:14:00,twitter,$GS to the moon 🚀 upbeat
+T649,2026-09-08 10:29:00,twitter,Exxon Mobil fraud?? thread 🧵 
+T650,2026-09-08 10:39:00,twitter,"loading up on $CVX, great news"
+T651,2026-09-08 10:43:00,twitter,$CVX to the moon 🚀 dismissed
+T652,2026-09-08 10:50:00,twitter,$CVX to the moon 🚀 dismissed
+T653,2026-09-08 11:33:00,twitter,"selling all my $XOM right now, this looks bad"
+T654,2026-09-08 12:43:00,twitter,$CVX to the moon 🚀 dismissed
+T655,2026-09-08 13:50:00,twitter,Amazon fraud?? thread 🧵 conflict
+T656,2026-09-08 13:51:00,twitter,Apple fraud?? thread 🧵 margins
+T657,2026-09-08 15:12:00,twitter,$AAPL crashing?? heard rumours it's worse than reported
+T658,2026-09-08 15:48:00,twitter,"selling all my $XOM right now, this looks bad"
+T659,2026-09-08 15:48:00,twitter,$XOM crashing?? heard rumours it's worse than reported
+T660,2026-09-08 16:34:00,twitter,omg Apple is done 😱 margins
+T661,2026-09-08 16:36:00,twitter,Apple fraud?? thread 🧵 margins
+T662,2026-09-08 17:30:00,twitter,"selling all my $AMZN right now, this looks bad"
+T663,2026-09-08 18:40:00,twitter,$AAPL crashing?? heard rumours it's worse than reported
+T664,2026-09-09 09:10:00,twitter,"loading up on $JPM, great news"
+T665,2026-09-09 10:36:00,twitter,$KO crashing?? heard rumours it's worse than reported
+T666,2026-09-09 10:42:00,twitter,omg Coca-Cola is done 😱 
+T667,2026-09-09 11:28:00,twitter,"loading up on $JPM, great news"
+T668,2026-09-09 13:33:00,twitter,"JPMorgan looking strong, bullish 📈"
+T669,2026-09-09 14:34:00,twitter,$JPM to the moon 🚀 growth
+T670,2026-09-09 15:03:00,twitter,"loading up on $JPM, great news"
+T671,2026-09-09 15:07:00,twitter,"selling all my $MSFT right now, this looks bad"
+T672,2026-09-09 15:55:00,twitter,"selling all my $KO right now, this looks bad"
+T673,2026-09-09 16:30:00,twitter,$KO crashing?? heard rumours it's worse than reported
+T674,2026-09-09 17:05:00,twitter,Coca-Cola fraud?? thread 🧵 {co}
+T675,2026-09-09 17:09:00,twitter,"selling all my $KO right now, this looks bad"
+T676,2026-09-09 17:14:00,twitter,omg Coca-Cola is done 😱 {co}
+T677,2026-09-09 17:30:00,twitter,Coca-Cola fraud?? thread 🧵 
+T678,2026-09-09 17:43:00,twitter,"selling all my $KO right now, this looks bad"
+T679,2026-09-09 20:33:00,twitter,"selling all my $MSFT right now, this looks bad"
+T680,2026-09-10 13:32:00,twitter,omg Coca-Cola is done 😱 margins
+T681,2026-09-10 14:40:00,twitter,omg Exxon Mobil is done 😱 guidance
+T682,2026-09-10 15:15:00,twitter,Chevron fraud?? thread 🧵 rise
+T683,2026-09-10 15:26:00,twitter,Coca-Cola fraud?? thread 🧵 margins
+T684,2026-09-10 16:40:00,twitter,Exxon Mobil fraud?? thread 🧵 guidance
+T685,2026-09-10 16:55:00,twitter,$CVX crashing?? heard rumours it's worse than reported
+T686,2026-09-10 17:12:00,twitter,$KO crashing?? heard rumours it's worse than reported
+T687,2026-09-10 18:43:00,twitter,omg Coca-Cola is done 😱 margins
